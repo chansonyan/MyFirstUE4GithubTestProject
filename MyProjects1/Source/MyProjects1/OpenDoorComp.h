@@ -2,20 +2,19 @@
 
 #pragma once
 
-
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "PositionReporter.generated.h"
+#include "OpenDoorComp.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class MYPROJECTS1_API UPositionReporter : public UActorComponent
+class MYPROJECTS1_API UOpenDoorComp : public UActorComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UPositionReporter();
+	UOpenDoorComp();
 
 protected:
 	// Called when the game starts
