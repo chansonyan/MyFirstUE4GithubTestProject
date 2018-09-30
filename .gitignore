@@ -6,13 +6,14 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-
+MyProjects1/Content/StarterContent/Textures/
+MyProjects1/Content/StarterContent/HDRI/
 
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
 *.suo
-MyProjects1/Content/StarterContent/Textures/
-MyProjects1/Content/StarterContent/HDRI/
-MyProjects1/MyProjects1.VC.VC.opendb
+
+*.VC.opendb
+*.sln
